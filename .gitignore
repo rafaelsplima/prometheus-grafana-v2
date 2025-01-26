@@ -2,3 +2,5 @@ app/target
 app/.classpath
 app/.mvn
 app/.project
+prometheus/prometheus_data
+grafana/plugins
